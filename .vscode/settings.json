@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "addbutton",
+        "emilys",
+        "emilyspass",
+        "Flatlist",
+        "Homescreen",
+        "loginpages",
+        "Pressable",
+        "Todos"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
